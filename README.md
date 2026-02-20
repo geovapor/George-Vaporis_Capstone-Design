@@ -37,6 +37,7 @@ Alec Snodgrass is a senior double major in Electrical Engineering and Physics se
 #### Nathan Galloway 
 
 #### Parker Branson
+Parker Branson is a senior in Electrical Engineering and has a associates degree in mathmatics and physics. My main focus is in power systems and my contribution to the project will be to bring in knowlege to the team to help complet task and while ensuring to carry my full share of the responsibilities we take on as a group.
 
 ---
 
