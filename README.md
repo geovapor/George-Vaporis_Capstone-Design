@@ -40,7 +40,7 @@ Landon Paul is a senior majoring in Electrical Engineering, with a minor in Math
 Nathan Galloway is a senior at Tennessee Technological University pursuing a Bachelor of Science in Electrical Engineering with a concentration in power systems. Throughout his academic career, Nathan has developed a strong foundation in power analysis, programming, and hands-on electrical systems work; skills he will bring directly over to this project. In his role, Nathan will be responsible for collecting and analyzing project data, then synthesizing his findings into a clear, well organized, and professional document. He will also contribute to the hands-on restoration of the golf car, working to return it to fully operational condition.
 
 #### Parker Branson
-Parker Branson is a senior in Electrical Engineering and has a associates degree in mathmatics and physics. My main focus is in power systems and my contribution to the project will be to bring in knowlege to the team to help complet task and while ensuring to carry my full share of the responsibilities we take on as a group.
+Parker Branson is a senior in Electrical Engineering and has a associates degree in mathmatics and physics. My main focus is in power systems and my contribution to the project will be to bring in knowlege to the team to help complet task and while ensuring to carry my full share of the responsibilities we take on as a group and also hands on work with the golf car. Parker is experenced in electrical wiring, excel, C++, sodering, LTspice. 
 
 ---
 
