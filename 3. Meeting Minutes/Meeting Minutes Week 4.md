@@ -48,7 +48,7 @@ Nathan Galloway:
 
 1.  Updated assigned sections
 
-[Parker Branson:]{.underline}
+Parker Branson:
 
 1.  Updated assigned sections
 
@@ -70,7 +70,7 @@ Nathan Galloway:
 
 1.  Obtain everyone's biography and comply for Personal section
 
-[Parker Branson:]{.underline}
+Parker Branson:
 
 1.  No new task assigned
 
